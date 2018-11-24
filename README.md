@@ -4,6 +4,6 @@ Este es un pequeño y sensillo proyecto que servira de apoyo para aprender a tra
 
 ### Todos los cambios que se hagan se veran reflejados en la pagina
 
-[fEMPOWER's Batch](https://aangper.github.io/fEMPOWER/)
+[fEMPOWER's Batch](https://xpectrelabs.github.io/fEMPOWER/)
 
 
